@@ -1,6 +1,7 @@
 #include "DXUT.h"
 #include "Fog.h"
 
+
 Fog::Fog()
 {
 	Create(L"fog.png");
